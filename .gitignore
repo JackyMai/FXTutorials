@@ -1,19 +1,10 @@
-*.class
-
-# Package Files #
-*.war
-*.ear
+# Default
 /bin
+/.git
 
-# Eclipse #
-.classpath
+# Eclipse
+.classPath
 .project
-.settings/
-/bin
-/target
 
-# maven #
-dependency-reduced-pom.xml
-
-# logs #
-*.log
+# Mac OS X
+.DS_Store
